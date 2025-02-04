@@ -106,3 +106,7 @@
 * You can check all logs per job by clicking on the job name.
 
 ![](img/img027.png)
+
+* After job start vms completed :
+
+![](img/img028.png)
