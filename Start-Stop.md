@@ -28,3 +28,15 @@
 * You can get the script here : [Script-automation](script.ps1)
 
 ![](img/img07.png)
+
+* Now we have to configure the permissions on the Automation Account, return to Automation Account panel and select Identity :
+
+![](img/img08.png)
+
+* Click on Azure role assignments.
+
+![](img/img09.png)
+
+* Click on Add role assignment.
+
+![](img/img10.png)
