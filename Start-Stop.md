@@ -8,6 +8,6 @@
 
 ![](img/img02.png)
 
-* Select System Assigned [](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/overview)
+* Select System Assigned [Docs - System Assigned](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/overview)
 
 ![](img/img03.png)
