@@ -67,4 +67,42 @@
 
 * Wait few minutes to get the result :
 
+![](img/img017.png)
 
+![](img/img018.png)
+
+* Return to Editor panel and we will Publish the Runbook clicking on Publish.
+
+![](img/img019.png)
+
+* To schedule this Runbook, go to the Runbook page and select Schedules and click on Add a schedule.
+
+![](img/img020.png)
+
+* On Schedule Runbook, select schedule and after select Add a schedule.
+
+![](img/img021.png)
+
+![](img/img022.png)
+
+* Complete with your needed and click on Create.
+
+![](img/img023.png)
+
+* Now select Configure parameters and run settings.
+
+![](img/img024.png)
+
+* On Configure parameters and run settings and click on Create and After OK again.
+
+![](img/img025.png)
+
+* Configure to Stop VM.
+
+* After configuration, you can check the Jobs on Runnbook page by selecting Jobs.
+
+![](img/img026.png)
+
+* You can check all logs per job by clicking on the job name.
+
+![](img/img027.png)
