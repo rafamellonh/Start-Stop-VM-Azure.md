@@ -56,3 +56,15 @@
 * Now we can test, before check the Tags of VMs.
 
 ![](img/img14.png)
+
+* On editor page click on Test pane.
+
+![](img/img15.png)
+
+* Fill in your TAG and select false to shut down the VMs and click on Start. True is to turn on the vms.
+
+![](img/img16.png)
+
+* Wait few minutes to get the result :
+
+
