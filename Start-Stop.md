@@ -40,3 +40,19 @@
 * Click on Add role assignment.
 
 ![](img/img10.png)
+
+* In the tab that opened on the right, complete the fields and click in Save.
+
+![](img/img11.png)
+
+* Return to Runbooks and select one you created.
+
+![](img/img12.png)
+
+* Click on Edit and select Edit in portal.
+
+![](img/img13.png)
+
+* Now we can test, before check the Tags of VMs.
+
+![](img/img14.png)
