@@ -61,9 +61,9 @@
 
 ![](img/img15.png)
 
-* Fill in your TAG and select false to shut down the VMs and click on Start. True is to turn on the vms.
+* Fill in your TAG and select TRUE to shut down the VMs and click on Start. FALSE is to turn on the vms.
 
-![](img/img16.png)
+![](img/img016.png)
 
 * Wait few minutes to get the result :
 
